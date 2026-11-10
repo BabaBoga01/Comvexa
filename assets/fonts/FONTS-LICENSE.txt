@@ -1,0 +1,8 @@
+Fonts included in this folder (subsetted to Latin + Indian Rupee sign):
+
+Poppins - Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+Lora    - Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic)
+Inter   - Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)
+
+All three are licensed under the SIL Open Font License, Version 1.1.
+Full license text: https://openfontlicense.org/open-font-license-official-text/
